@@ -7,11 +7,11 @@
 body{
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    background: #22814d;
+    background: #EEEBD0;
 }
 
 .contenedor{
-    background: #1b8f2a;
+    background: #EE2677;
     max-width: 1000px;
     margin:20px auto;
     overflow: hidden;
@@ -20,7 +20,7 @@ body{
 
 header{
 
-    background: #085827;
+    background: #EBB3A9;
     width: 100%;
 }
 
@@ -37,11 +37,11 @@ header{
  }
 header nav a:hover{
 
-    background: #81f324;
+    background: #E87EA1;
 }
 
 main{
-    background: #45f336;
+    background: #E87EA1;
     width: 75%;
     float: left;
 
@@ -54,7 +54,7 @@ main{
 
 article h2{
 
-color:#18065a;
+color:#B52717;
 font-size: 2em;
 margin-top: 10px;
 margin-bottom: 20px;
@@ -70,7 +70,7 @@ article p{
 
 aside{
 
-    background:#489906;
+    background:#EE2677;
     width: 25%;
     float: left;
     line-height: 25px;
@@ -101,11 +101,11 @@ aside{
 
 .enlaces li a:hover{
 
-    background: #19ca45;
+    background: #E87EA1;
 }
 
 footer{
-    background: #3dec5b;
+    background: #EBB3A9;
     width: 100%;
     float: left;
     font-size: 1.3em;
